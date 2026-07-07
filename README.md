@@ -11,9 +11,7 @@ A major mechanic of the game is its strict progress system: while the early stag
 * **Scavenger Hunt Element:** The program utilizes a hidden alphanumeric code. The clues to piece this code together are subtly revealed to the player as they successfully pass through earlier stages of the game.
 * **Paced Output:** The game utilizes timed delays between printed text lines to control the reading pace and build tension during gameplay.
 
-**Built entirely from scratch.**
-
-**_100% human-written code._**
+**_100% human-written code. Built entirely from scratch._**
 
 
 G.N.
