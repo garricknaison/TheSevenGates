@@ -14,4 +14,4 @@ A major mechanic of the game is its strict progress system: while the early stag
 **_100% human-written code. Built entirely from scratch._**
 
 
-G.N.
+> — ***G.N.***
