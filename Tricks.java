@@ -344,6 +344,8 @@ public class Tricks {
 
     public static void main(String args[]) {
         Scanner nn = new Scanner(System.in);
+        System.out.println("\"\\u001B[1mWelcome to the Seven Gates.\\u001B[0m");
+        pause(3000);
         System.out.println("Enter your name to proceed:");
         name = nn.nextLine();
         pause(1000);
