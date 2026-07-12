@@ -13,7 +13,7 @@ A major mechanic of the game is its strict progress system: while the early stag
 
 **_100% human-written code. Built entirely from scratch._**
 
- *Feel free to inform me of any bugs or suggestions you may have.
+ **Feel free to inform me of any bugs or suggestions you may have.
  
 <p align="center">
   <b>— G.N. —</b>
